@@ -1,5 +1,6 @@
 # Women-HealthCare
-A health care app which helps women deal with their problems and get professional advice 
+An android health care app which helps low income women join medical support groups, go to free meetups, and get free professional advice. Developed at Women Who Code Silicon Valley Hackathon.
+
 
 # Women Who Code Hackathon
 Add description about this
