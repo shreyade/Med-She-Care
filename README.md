@@ -2,11 +2,9 @@
 An android health care app which helps low income women join medical support groups, go to free meetups, and get free professional advice. Developed at Women Who Code Silicon Valley Hackathon.
 
 
-# Women Who Code Hackathon
-Add description about this
+# Women Who Code 
+"Women Who Code is an international non-profit organization that provides services for women pursuing technology careers and a job board for companies seeking coding professionals. The company aims to provide an avenue into the technology world by evaluating and assisting women developing technical skills. "
 
-# Features
-TBD
 
 # Core Contributors
 | Contributor        | Role(s)          | Comments  |
