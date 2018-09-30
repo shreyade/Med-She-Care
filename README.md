@@ -1,4 +1,4 @@
-# Women-HealthCare
+# Med She Care
 An android health care app which helps low income women join medical support groups, go to free meetups, and get free professional advice. Developed at Women Who Code Silicon Valley Hackathon.
 
 
