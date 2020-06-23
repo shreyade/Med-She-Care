@@ -12,8 +12,8 @@ An android health care app which helps low income women join medical support gro
 |[Shreya De](https://github.com/shreyade)| Developer |  |
 |[Shivangi Agarwal](https://github.com/AShivangi)| Developer |  |
 |[Avni Gulati](https://github.com/avnigulati)| Developer |  |
-|[Anju Merican](https://github.com/amalphonse)| Content Developer, Documentation |  |
-|[Yolanda Zhang](https://github.com/Yoland-Zhang)| Content Developer, Documentation |  |
+|[Anju Merican](https://github.com/amalphonse)| Content, Documentation |  |
+|[Yolanda Zhang](https://github.com/Yoland-Zhang)| Content, Documentation |  |
 
 
 # Tech Stack
